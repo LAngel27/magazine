@@ -30,7 +30,7 @@ img{
     margin: auto;
     height: 100vh;
     border: var(--border-red) none;
-    background-image: url('src/img/cover_page.jpg');
+    background-image: url('../img/cover_page.jpg');
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
